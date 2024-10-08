@@ -1,26 +1,27 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Subjects\\Semester_5\\CNNet\\Nhom11_QuanLyNhaHang\\",
+  "WorkspaceRootPath": "D:\\HK1_2024_2025\\CN .NET\\CongNgheNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2206F7F7-3953-40B8-B542-3144A20264B1}|Nhom11_QuanLyNhaHang.csproj|d:\\subjects\\semester_5\\cnnet\\nhom11_quanlynhahang\\nhom11_quanlynhahang.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{2206F7F7-3953-40B8-B542-3144A20264B1}|Nhom11_QuanLyNhaHang.csproj|solutionrelative:nhom11_quanlynhahang.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{859BFEC1-8DB4-49A3-8798-9FEC2D25F9A7}|..\\Nhom11_QuanLyNhaHang_BLL\\Nhom11_QuanLyNhaHang_BLL.csproj|d:\\hk1_2024_2025\\cn .net\\nhom11_quanlynhahang_bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2206F7F7-3953-40B8-B542-3144A20264B1}|Nhom11_QuanLyNhaHang.csproj|d:\\subjects\\semester_5\\cnnet\\nhom11_quanlynhahang\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2206F7F7-3953-40B8-B542-3144A20264B1}|Nhom11_QuanLyNhaHang.csproj|solutionrelative:frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{53E165A9-3339-40AE-8800-38D72A0F4A03}|..\\Nhom11_QuanLyNhaHang_DTO\\Nhom11_QuanLyNhaHang_DTO.csproj|d:\\hk1_2024_2025\\cn .net\\nhom11_quanlynhahang_dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2206F7F7-3953-40B8-B542-3144A20264B1}|Nhom11_QuanLyNhaHang.csproj|d:\\subjects\\semester_5\\cnnet\\nhom11_quanlynhahang\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{993BE19A-7677-4B0B-B377-CD64AA36BA0A}|..\\Nhom11_QuanLyNhaHang_DAL\\Nhom11_QuanLyNhaHang_DAL.csproj|d:\\hk1_2024_2025\\cn .net\\nhom11_quanlynhahang_dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2206F7F7-3953-40B8-B542-3144A20264B1}|Nhom11_QuanLyNhaHang.csproj|D:\\HK1_2024_2025\\CN .NET\\CongNgheNet\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2206F7F7-3953-40B8-B542-3144A20264B1}|Nhom11_QuanLyNhaHang.csproj|solutionrelative:frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2206F7F7-3953-40B8-B542-3144A20264B1}|Nhom11_QuanLyNhaHang.csproj|d:\\subjects\\semester_5\\cnnet\\nhom11_quanlynhahang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2206F7F7-3953-40B8-B542-3144A20264B1}|Nhom11_QuanLyNhaHang.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2206F7F7-3953-40B8-B542-3144A20264B1}|Nhom11_QuanLyNhaHang.csproj|D:\\HK1_2024_2025\\CN .NET\\CongNgheNet\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2206F7F7-3953-40B8-B542-3144A20264B1}|Nhom11_QuanLyNhaHang.csproj|solutionrelative:frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2206F7F7-3953-40B8-B542-3144A20264B1}|Nhom11_QuanLyNhaHang.csproj|d:\\subjects\\semester_5\\cnnet\\nhom11_quanlynhahang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2206F7F7-3953-40B8-B542-3144A20264B1}|Nhom11_QuanLyNhaHang.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2206F7F7-3953-40B8-B542-3144A20264B1}|Nhom11_QuanLyNhaHang_GUI.csproj|d:\\hk1_2024_2025\\cn .net\\congnghenet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2206F7F7-3953-40B8-B542-3144A20264B1}|Nhom11_QuanLyNhaHang_GUI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +31,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmMain.cs [Design]",
-              "DocumentMoniker": "D:\\Subjects\\Semester_5\\CNNet\\Nhom11_QuanLyNhaHang\\frmMain.cs",
-              "RelativeDocumentMoniker": "frmMain.cs",
-              "ToolTip": "D:\\Subjects\\Semester_5\\CNNet\\Nhom11_QuanLyNhaHang\\frmMain.cs [Design]",
-              "RelativeToolTip": "frmMain.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T10:25:07.614Z",
-              "EditorCaption": " [Design]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmDangNhap.cs [Design]",
-              "DocumentMoniker": "D:\\Subjects\\Semester_5\\CNNet\\Nhom11_QuanLyNhaHang\\frmDangNhap.cs",
-              "RelativeDocumentMoniker": "frmDangNhap.cs",
-              "ToolTip": "D:\\Subjects\\Semester_5\\CNNet\\Nhom11_QuanLyNhaHang\\frmDangNhap.cs [Design]",
-              "RelativeToolTip": "frmDangNhap.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T10:13:46.939Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmDangKy.cs [Design]",
-              "DocumentMoniker": "D:\\Subjects\\Semester_5\\CNNet\\Nhom11_QuanLyNhaHang\\frmDangKy.cs",
-              "RelativeDocumentMoniker": "frmDangKy.cs",
-              "ToolTip": "D:\\Subjects\\Semester_5\\CNNet\\Nhom11_QuanLyNhaHang\\frmDangKy.cs [Design]",
-              "RelativeToolTip": "frmDangKy.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T10:13:39.642Z",
-              "EditorCaption": " [Design]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Nhom11_QuanLyNhaHang",
-              "DocumentMoniker": "D:\\Subjects\\Semester_5\\CNNet\\Nhom11_QuanLyNhaHang\\Nhom11_QuanLyNhaHang.csproj",
-              "RelativeDocumentMoniker": "Nhom11_QuanLyNhaHang.csproj",
-              "ToolTip": "D:\\Subjects\\Semester_5\\CNNet\\Nhom11_QuanLyNhaHang\\Nhom11_QuanLyNhaHang.csproj",
-              "RelativeToolTip": "Nhom11_QuanLyNhaHang.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-01T10:02:18.03Z",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\HK1_2024_2025\\CN .NET\\Nhom11_QuanLyNhaHang_BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Nhom11_QuanLyNhaHang_BLL\\Class1.cs",
+              "ToolTip": "D:\\HK1_2024_2025\\CN .NET\\Nhom11_QuanLyNhaHang_BLL\\Class1.cs",
+              "RelativeToolTip": "..\\Nhom11_QuanLyNhaHang_BLL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:45:49.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Subjects\\Semester_5\\CNNet\\Nhom11_QuanLyNhaHang\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Subjects\\Semester_5\\CNNet\\Nhom11_QuanLyNhaHang\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\HK1_2024_2025\\CN .NET\\Nhom11_QuanLyNhaHang_DTO\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Nhom11_QuanLyNhaHang_DTO\\Class1.cs",
+              "ToolTip": "D:\\HK1_2024_2025\\CN .NET\\Nhom11_QuanLyNhaHang_DTO\\Class1.cs",
+              "RelativeToolTip": "..\\Nhom11_QuanLyNhaHang_DTO\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:52:27.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T09:45:18.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\HK1_2024_2025\\CN .NET\\Nhom11_QuanLyNhaHang_DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Nhom11_QuanLyNhaHang_DAL\\Class1.cs",
+              "ToolTip": "D:\\HK1_2024_2025\\CN .NET\\Nhom11_QuanLyNhaHang_DAL\\Class1.cs",
+              "RelativeToolTip": "..\\Nhom11_QuanLyNhaHang_DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:45:03.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HK1_2024_2025\\CN .NET\\CongNgheNet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HK1_2024_2025\\CN .NET\\CongNgheNet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:49:19.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\HK1_2024_2025\\CN .NET\\CongNgheNet\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "frmDangNhap.cs",
+              "ToolTip": "D:\\HK1_2024_2025\\CN .NET\\CongNgheNet\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:47:58.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDangKy.cs [Design]",
+              "DocumentMoniker": "D:\\HK1_2024_2025\\CN .NET\\CongNgheNet\\frmDangKy.cs",
+              "RelativeDocumentMoniker": "frmDangKy.cs",
+              "ToolTip": "D:\\HK1_2024_2025\\CN .NET\\CongNgheNet\\frmDangKy.cs [Design]",
+              "RelativeToolTip": "frmDangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:47:08.712Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

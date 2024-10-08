@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Nhom11_QuanLyNhaHang")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Nhom11_QuanLyNhaHang_GUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0beffa7cfbfb7990853698b48e9c2b6061651e17")]
-[assembly: System.Reflection.AssemblyProductAttribute("Nhom11_QuanLyNhaHang")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Nhom11_QuanLyNhaHang")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93d6d494522fad05a11729fb583cd9a89a07121e")]
+[assembly: System.Reflection.AssemblyProductAttribute("Nhom11_QuanLyNhaHang_GUI")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Nhom11_QuanLyNhaHang_GUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
