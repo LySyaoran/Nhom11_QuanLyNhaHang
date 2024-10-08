@@ -10,6 +10,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Nhom11_QuanLyNhaHang_BLL\Nhom11_QuanLyNhaHang_BLL.csproj" />
+    <ProjectReference Include="..\Nhom11_QuanLyNhaHang_DTO\Nhom11_QuanLyNhaHang_DTO.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Update="Properties\Resources.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>

@@ -49,7 +49,7 @@
             pictureBox1.BorderStyle = BorderStyle.FixedSingle;
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
             pictureBox1.Location = new Point(74, 38);
-            pictureBox1.Margin = new Padding(4, 4, 4, 4);
+            pictureBox1.Margin = new Padding(4);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(568, 258);
             pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
@@ -60,7 +60,7 @@
             // 
             pictureBox2.Image = Properties.Resources.icons8_user_96;
             pictureBox2.Location = new Point(74, 324);
-            pictureBox2.Margin = new Padding(4, 4, 4, 4);
+            pictureBox2.Margin = new Padding(4);
             pictureBox2.Name = "pictureBox2";
             pictureBox2.Size = new Size(56, 56);
             pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -71,7 +71,7 @@
             // 
             pictureBox3.Image = Properties.Resources.icons8_password_90;
             pictureBox3.Location = new Point(74, 402);
-            pictureBox3.Margin = new Padding(4, 4, 4, 4);
+            pictureBox3.Margin = new Padding(4);
             pictureBox3.Name = "pictureBox3";
             pictureBox3.Size = new Size(56, 56);
             pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -83,7 +83,7 @@
             txt_TenDN.BorderStyle = BorderStyle.FixedSingle;
             txt_TenDN.Font = new Font("Tahoma", 10.8F);
             txt_TenDN.Location = new Point(211, 334);
-            txt_TenDN.Margin = new Padding(4, 4, 4, 4);
+            txt_TenDN.Margin = new Padding(4);
             txt_TenDN.Name = "txt_TenDN";
             txt_TenDN.Size = new Size(431, 34);
             txt_TenDN.TabIndex = 3;
@@ -94,7 +94,7 @@
             txt_MK.BorderStyle = BorderStyle.FixedSingle;
             txt_MK.Font = new Font("Tahoma", 10.8F);
             txt_MK.Location = new Point(211, 412);
-            txt_MK.Margin = new Padding(4, 4, 4, 4);
+            txt_MK.Margin = new Padding(4);
             txt_MK.Name = "txt_MK";
             txt_MK.PasswordChar = '*';
             txt_MK.Size = new Size(431, 34);
@@ -106,7 +106,7 @@
             ckb_HienMK.AutoSize = true;
             ckb_HienMK.Font = new Font("Tahoma", 9F);
             ckb_HienMK.Location = new Point(484, 454);
-            ckb_HienMK.Margin = new Padding(4, 4, 4, 4);
+            ckb_HienMK.Margin = new Padding(4);
             ckb_HienMK.Name = "ckb_HienMK";
             ckb_HienMK.Size = new Size(151, 26);
             ckb_HienMK.TabIndex = 5;
@@ -143,12 +143,13 @@
             btn_DangNhap.Font = new Font("Tahoma", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btn_DangNhap.ForeColor = SystemColors.Control;
             btn_DangNhap.Location = new Point(256, 566);
-            btn_DangNhap.Margin = new Padding(4, 4, 4, 4);
+            btn_DangNhap.Margin = new Padding(4);
             btn_DangNhap.Name = "btn_DangNhap";
             btn_DangNhap.Size = new Size(202, 56);
             btn_DangNhap.TabIndex = 8;
             btn_DangNhap.Text = "Đăng Nhập";
             btn_DangNhap.UseVisualStyleBackColor = false;
+            btn_DangNhap.Click += btn_DangNhap_Click;
             // 
             // frmDangNhap
             // 
@@ -165,7 +166,7 @@
             Controls.Add(pictureBox3);
             Controls.Add(pictureBox2);
             Controls.Add(pictureBox1);
-            Margin = new Padding(4, 4, 4, 4);
+            Margin = new Padding(4);
             Name = "frmDangNhap";
             Text = "Đăng Nhập";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
