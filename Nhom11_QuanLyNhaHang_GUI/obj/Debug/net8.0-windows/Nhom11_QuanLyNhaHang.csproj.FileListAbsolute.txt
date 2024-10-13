@@ -1,0 +1,38 @@
+D:\HK1_2024_2025\CN .NET\CongNgheNet\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.exe
+D:\HK1_2024_2025\CN .NET\CongNgheNet\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.deps.json
+D:\HK1_2024_2025\CN .NET\CongNgheNet\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.runtimeconfig.json
+D:\HK1_2024_2025\CN .NET\CongNgheNet\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.dll
+D:\HK1_2024_2025\CN .NET\CongNgheNet\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.pdb
+D:\HK1_2024_2025\CN .NET\CongNgheNet\obj\Debug\net8.0-windows\RESTAURANT_MANAGEMENT.Form1.resources
+D:\HK1_2024_2025\CN .NET\CongNgheNet\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.csproj.GenerateResource.cache
+D:\HK1_2024_2025\CN .NET\CongNgheNet\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK1_2024_2025\CN .NET\CongNgheNet\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.AssemblyInfoInputs.cache
+D:\HK1_2024_2025\CN .NET\CongNgheNet\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.AssemblyInfo.cs
+D:\HK1_2024_2025\CN .NET\CongNgheNet\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\HK1_2024_2025\CN .NET\CongNgheNet\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.sourcelink.json
+D:\HK1_2024_2025\CN .NET\CongNgheNet\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.dll
+D:\HK1_2024_2025\CN .NET\CongNgheNet\obj\Debug\net8.0-windows\refint\Nhom11_QuanLyNhaHang.dll
+D:\HK1_2024_2025\CN .NET\CongNgheNet\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.pdb
+D:\HK1_2024_2025\CN .NET\CongNgheNet\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.genruntimeconfig.cache
+D:\HK1_2024_2025\CN .NET\CongNgheNet\obj\Debug\net8.0-windows\ref\Nhom11_QuanLyNhaHang.dll
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.exe
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.deps.json
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.runtimeconfig.json
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.dll
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.pdb
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\obj\Debug\net8.0-windows\RESTAURANT_MANAGEMENT.Form1.resources
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\obj\Debug\net8.0-windows\RESTAURANT_MANAGEMENT.frmDangNhap.resources
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\obj\Debug\net8.0-windows\RESTAURANT_MANAGEMENT.Properties.Resources.resources
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.csproj.GenerateResource.cache
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.AssemblyInfoInputs.cache
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.AssemblyInfo.cs
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.sourcelink.json
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.dll
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\obj\Debug\net8.0-windows\refint\Nhom11_QuanLyNhaHang.dll
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.pdb
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang.genruntimeconfig.cache
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\obj\Debug\net8.0-windows\ref\Nhom11_QuanLyNhaHang.dll
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\obj\Debug\net8.0-windows\RESTAURANT_MANAGEMENT.frmDangKy.resources
+D:\Subjects\Semester_5\CNNet\Nhom11_QuanLyNhaHang\obj\Debug\net8.0-windows\RESTAURANT_MANAGEMENT.frmMain.resources
