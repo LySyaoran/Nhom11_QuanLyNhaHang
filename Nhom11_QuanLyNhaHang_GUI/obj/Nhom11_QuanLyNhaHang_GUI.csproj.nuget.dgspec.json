@@ -1,0 +1,285 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_GUI\\Nhom11_QuanLyNhaHang_GUI.csproj": {}
+  },
+  "projects": {
+    "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_BLL\\Nhom11_QuanLyNhaHang_BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_BLL\\Nhom11_QuanLyNhaHang_BLL.csproj",
+        "projectName": "Nhom11_QuanLyNhaHang_BLL",
+        "projectPath": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_BLL\\Nhom11_QuanLyNhaHang_BLL.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DAL\\Nhom11_QuanLyNhaHang_DAL.csproj": {
+                "projectPath": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DAL\\Nhom11_QuanLyNhaHang_DAL.csproj"
+              },
+              "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DTO\\Nhom11_QuanLyNhaHang_DTO.csproj": {
+                "projectPath": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DTO\\Nhom11_QuanLyNhaHang_DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DAL\\Nhom11_QuanLyNhaHang_DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DAL\\Nhom11_QuanLyNhaHang_DAL.csproj",
+        "projectName": "Nhom11_QuanLyNhaHang_DAL",
+        "projectPath": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DAL\\Nhom11_QuanLyNhaHang_DAL.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DTO\\Nhom11_QuanLyNhaHang_DTO.csproj": {
+                "projectPath": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DTO\\Nhom11_QuanLyNhaHang_DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DTO\\Nhom11_QuanLyNhaHang_DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DTO\\Nhom11_QuanLyNhaHang_DTO.csproj",
+        "projectName": "Nhom11_QuanLyNhaHang_DTO",
+        "projectPath": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DTO\\Nhom11_QuanLyNhaHang_DTO.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_GUI\\Nhom11_QuanLyNhaHang_GUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_GUI\\Nhom11_QuanLyNhaHang_GUI.csproj",
+        "projectName": "Nhom11_QuanLyNhaHang_GUI",
+        "projectPath": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_GUI\\Nhom11_QuanLyNhaHang_GUI.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_GUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_BLL\\Nhom11_QuanLyNhaHang_BLL.csproj": {
+                "projectPath": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_BLL\\Nhom11_QuanLyNhaHang_BLL.csproj"
+              },
+              "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DTO\\Nhom11_QuanLyNhaHang_DTO.csproj": {
+                "projectPath": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DTO\\Nhom11_QuanLyNhaHang_DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
