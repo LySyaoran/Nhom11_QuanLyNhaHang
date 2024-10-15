@@ -55,5 +55,27 @@ namespace Nhom11_QuanLyNhaHang_DAL
                 return false;
             }
         }
+        public bool Update_MatKhau(string Email, string MatKhau)
+        {
+            try
+            {
+                conn.Open();
+                string query = "EXEC SP_UpdatePassword @EMAIL, @MATKHAU";
+                SqlCommand cmd = new SqlCommand(query, conn);
+
+                // Thêm tham số cho lệnh SQL
+                cmd.Parameters.AddWithValue("@EMAIL", Email);
+                cmd.Parameters.AddWithValue("@MATKHAU", MatKhau);
+
+                // Thực thi lệnh
+                cmd.ExecuteNonQuery();
+                conn.Close();
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+        }
     }
 }

@@ -11,6 +11,7 @@ using Nhom11_QuanLyNhaHang_DTO;
 using Nhom11_QuanLyNhaHang_DAL;
 using Nhom11_QuanLyNhaHang_BLL;
 using Microsoft.VisualBasic.ApplicationServices;
+using System.Security.Cryptography;
 
 namespace RESTAURANT_MANAGEMENT
 {
@@ -34,7 +35,7 @@ namespace RESTAURANT_MANAGEMENT
             }
 
             TaiKhoan_DTO user;
-            bool isSuccess = userBll.DangNhap(tendangnhap, matkhau, out user);
+            bool isSuccess = userBll.DangNhap(tendangnhap, HashPasswordMD5(matkhau), out user);
 
             if (isSuccess)
             {
@@ -80,6 +81,36 @@ namespace RESTAURANT_MANAGEMENT
             dangkyForm.ShowDialog();
             dangkyForm = null;
             this.Show();
+        }
+
+        private void llbl_QuenMK_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            this.Hide();
+            frmQuenMatKhau quenmkform = new frmQuenMatKhau();
+            quenmkform.ShowDialog();
+            quenmkform = null;
+            this.Show();
+        }
+
+        public string HashPasswordMD5(string password)
+        {
+            // Tạo đối tượng MD5
+            using (MD5 md5 = MD5.Create())
+            {
+                // Chuyển password thành mảng byte
+                byte[] inputBytes = Encoding.UTF8.GetBytes(password);
+
+                // Tính toán hash
+                byte[] hashBytes = md5.ComputeHash(inputBytes);
+
+                // Chuyển đổi mảng byte thành chuỗi hex
+                StringBuilder sb = new StringBuilder();
+                for (int i = 0; i < hashBytes.Length; i++)
+                {
+                    sb.Append(hashBytes[i].ToString("X2")); // X2 để in ra hex với chữ cái in hoa
+                }
+                return sb.ToString();
+            }
         }
     }
 }

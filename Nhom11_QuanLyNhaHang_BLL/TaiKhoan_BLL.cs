@@ -23,5 +23,9 @@ namespace Nhom11_QuanLyNhaHang_BLL
         {
             return userDal.Them_TaiKhoan(user);
         }
+        public bool DoiMatKhau(string Email, string MatKhau)
+        {
+            return userDal.Update_MatKhau(Email, MatKhau);
+        }
     }
 }

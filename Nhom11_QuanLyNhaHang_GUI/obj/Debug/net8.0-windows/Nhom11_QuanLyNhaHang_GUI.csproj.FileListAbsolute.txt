@@ -66,3 +66,4 @@ D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\N
 D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.genruntimeconfig.cache
 D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\ref\Nhom11_QuanLyNhaHang_GUI.dll
 D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.sourcelink.json
+D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\RESTAURANT_MANAGEMENT.frmQuenMatKhau.resources
