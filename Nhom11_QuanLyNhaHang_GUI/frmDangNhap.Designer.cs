@@ -125,6 +125,7 @@
             llbl_QuenMK.TabIndex = 6;
             llbl_QuenMK.TabStop = true;
             llbl_QuenMK.Text = "Quên mật khẩu?";
+            llbl_QuenMK.LinkClicked += llbl_QuenMK_LinkClicked;
             // 
             // llbl_DangKy
             // 

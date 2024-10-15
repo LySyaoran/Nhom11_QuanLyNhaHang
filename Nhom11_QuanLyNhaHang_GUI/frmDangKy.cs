@@ -10,8 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.ProgressBar;
-using Nhom11_QuanLyNhaHang_BLL;
-using Nhom11_QuanLyNhaHang_DTO;
+using System.Security.Cryptography;
 
 namespace RESTAURANT_MANAGEMENT
 {
@@ -64,7 +63,7 @@ namespace RESTAURANT_MANAGEMENT
                 }
 
                 // Tạo đối tượng TaiKhoan_DTO từ thông tin người dùng nhập
-                TaiKhoan_DTO user = new TaiKhoan_DTO(tendangnhap, txt_MK.Text, txt_Email.Text, vaitro);
+                TaiKhoan_DTO user = new TaiKhoan_DTO(tendangnhap, HashPasswordMD5(txt_MK.Text), txt_Email.Text, vaitro);
 
                 // Gọi lớp BLL để thực hiện đăng ký
                 bool isSuccess = userBll.DangKy(user);
@@ -103,6 +102,27 @@ namespace RESTAURANT_MANAGEMENT
         private void llbl_DangNhap_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             this.Close();
+        }
+
+        public string HashPasswordMD5(string password)
+        {
+            // Tạo đối tượng MD5
+            using (MD5 md5 = MD5.Create())
+            {
+                // Chuyển password thành mảng byte
+                byte[] inputBytes = Encoding.UTF8.GetBytes(password);
+
+                // Tính toán hash
+                byte[] hashBytes = md5.ComputeHash(inputBytes);
+
+                // Chuyển đổi mảng byte thành chuỗi hex
+                StringBuilder sb = new StringBuilder();
+                for (int i = 0; i < hashBytes.Length; i++)
+                {
+                    sb.Append(hashBytes[i].ToString("X2")); // X2 để in ra hex với chữ cái in hoa
+                }
+                return sb.ToString();
+            }
         }
     }
 }

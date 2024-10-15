@@ -66,6 +66,7 @@ D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\N
 D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.genruntimeconfig.cache
 D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\ref\Nhom11_QuanLyNhaHang_GUI.dll
 D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.sourcelink.json
+<<<<<<< HEAD
 D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.exe
 D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.deps.json
 D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.runtimeconfig.json
@@ -101,3 +102,6 @@ D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Deb
 D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.genruntimeconfig.cache
 D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\ref\Nhom11_QuanLyNhaHang_GUI.dll
 D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\RESTAURANT_MANAGEMENT.frmDatBan.resources
+=======
+D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\RESTAURANT_MANAGEMENT.frmQuenMatKhau.resources
+>>>>>>> ddd5571a01e8489464d373aabe7af9e7331d0e37

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nhom11_QuanLyNhaHang_GUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a37e5ae8e28f1442a80e438467bf981f36e017f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6e434fa2f5f699fcd9a3fa8c34dbd3ee41ee42b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nhom11_QuanLyNhaHang_GUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nhom11_QuanLyNhaHang_GUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
