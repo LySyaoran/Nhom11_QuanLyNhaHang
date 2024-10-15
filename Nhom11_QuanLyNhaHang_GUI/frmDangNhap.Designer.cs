@@ -112,6 +112,7 @@
             ckb_HienMK.TabIndex = 5;
             ckb_HienMK.Text = "Hiện mật khẩu";
             ckb_HienMK.UseVisualStyleBackColor = true;
+            ckb_HienMK.CheckedChanged += ckb_HienMK_CheckedChanged;
             // 
             // llbl_QuenMK
             // 
@@ -136,6 +137,7 @@
             llbl_DangKy.TabIndex = 7;
             llbl_DangKy.TabStop = true;
             llbl_DangKy.Text = "Đăng ký";
+            llbl_DangKy.LinkClicked += llbl_DangKy_LinkClicked;
             // 
             // btn_DangNhap
             // 
@@ -169,6 +171,7 @@
             Margin = new Padding(4);
             Name = "frmDangNhap";
             Text = "Đăng Nhập";
+            FormClosing += frmDangNhap_FormClosing;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();

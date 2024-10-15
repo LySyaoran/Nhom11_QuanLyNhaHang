@@ -13,3 +13,4 @@ D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_DAL\obj\Debug\net8.0\Nhom11_Qu
 D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_DAL\obj\Debug\net8.0\refint\Nhom11_QuanLyNhaHang_DAL.dll
 D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_DAL\obj\Debug\net8.0\Nhom11_QuanLyNhaHang_DAL.pdb
 D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_DAL\obj\Debug\net8.0\ref\Nhom11_QuanLyNhaHang_DAL.dll
+D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_DAL\obj\Debug\net8.0\Nhom11_QuanLyNhaHang_DAL.sourcelink.json

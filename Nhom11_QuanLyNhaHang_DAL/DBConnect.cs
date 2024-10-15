@@ -9,6 +9,6 @@ namespace Nhom11_QuanLyNhaHang_DAL
 {
     public class DBConnect
     {
-        public SqlConnection conn = new SqlConnection("Data Source = LAPTOP-B3Q5NGMB\\SQLEXPRESS, Initial Catalog = QLSINHVIEN, User ID = sa, Password = lienquanthai11");
+        protected SqlConnection conn = new SqlConnection("Server = LAPTOP-B3Q5NGMB\\SQLEXPRESS; Database=QL_NHAHANG;User Id = sa; Password= lienquanthai11;");
     }
 }

@@ -3,11 +3,11 @@ using Nhom11_QuanLyNhaHang_DAL;
 
 namespace Nhom11_QuanLyNhaHang_BLL
 {
-    public class USER_ACCOUNT_BLL
+    public class TaiKhoan_BLL
     {
-        private USER_ACCOUNT_DAL userDal = new USER_ACCOUNT_DAL();
+        private TaiKhoan_DAL userDal = new TaiKhoan_DAL();
 
-        public bool DangNhap(string tendangnhap, string matkhau, out USER_ACCOUNT_DTO user)
+        public bool DangNhap(string tendangnhap, string matkhau, out TaiKhoan_DTO user)
         {
             user = userDal.GetUser(tendangnhap, matkhau);
             if (user != null)
@@ -19,5 +19,9 @@ namespace Nhom11_QuanLyNhaHang_BLL
             return false;
         }
 
+        public bool DangKy(TaiKhoan_DTO user)
+        {
+            return userDal.Them_TaiKhoan(user);
+        }
     }
 }
