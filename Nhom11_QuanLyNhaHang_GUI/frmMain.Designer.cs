@@ -28,99 +28,192 @@
         /// </summary>
         private void InitializeComponent()
         {
-            menuStrip1 = new MenuStrip();
-            hệThốngToolStripMenuItem = new ToolStripMenuItem();
-            thôngTinCáNhânToolStripMenuItem = new ToolStripMenuItem();
-            quảnLýTàiKhoảnToolStripMenuItem = new ToolStripMenuItem();
-            đăngXuấtToolStripMenuItem = new ToolStripMenuItem();
-            statusStrip1 = new StatusStrip();
-            tSS_TenDangNhap = new ToolStripStatusLabel();
-            menuStrip1.SuspendLayout();
-            statusStrip1.SuspendLayout();
+            pnl_Menu = new Panel();
+            btn_DatBan = new Button();
+            button5 = new Button();
+            button4 = new Button();
+            button3 = new Button();
+            button2 = new Button();
+            pictureBox1 = new PictureBox();
+            pnl_TitleBar = new Panel();
+            tSS_TenDangNhap = new Label();
+            pnl_FormCon = new Panel();
+            pnl_Menu.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            pnl_TitleBar.SuspendLayout();
             SuspendLayout();
             // 
-            // menuStrip1
+            // pnl_Menu
             // 
-            menuStrip1.ImageScalingSize = new Size(20, 20);
-            menuStrip1.Items.AddRange(new ToolStripItem[] { hệThốngToolStripMenuItem, thôngTinCáNhânToolStripMenuItem });
-            menuStrip1.Location = new Point(0, 0);
-            menuStrip1.Name = "menuStrip1";
-            menuStrip1.Padding = new Padding(8, 2, 0, 2);
-            menuStrip1.Size = new Size(1000, 33);
-            menuStrip1.TabIndex = 0;
-            menuStrip1.Text = "menuStrip1";
+            pnl_Menu.BackColor = Color.OrangeRed;
+            pnl_Menu.Controls.Add(btn_DatBan);
+            pnl_Menu.Controls.Add(button5);
+            pnl_Menu.Controls.Add(button4);
+            pnl_Menu.Controls.Add(button3);
+            pnl_Menu.Controls.Add(button2);
+            pnl_Menu.Controls.Add(pictureBox1);
+            pnl_Menu.Dock = DockStyle.Left;
+            pnl_Menu.Location = new Point(0, 0);
+            pnl_Menu.Name = "pnl_Menu";
+            pnl_Menu.Size = new Size(250, 703);
+            pnl_Menu.TabIndex = 2;
             // 
-            // hệThốngToolStripMenuItem
+            // btn_DatBan
             // 
-            hệThốngToolStripMenuItem.Name = "hệThốngToolStripMenuItem";
-            hệThốngToolStripMenuItem.Size = new Size(103, 29);
-            hệThốngToolStripMenuItem.Text = "Hệ thống";
+            btn_DatBan.BackColor = Color.SandyBrown;
+            btn_DatBan.FlatAppearance.BorderColor = Color.Black;
+            btn_DatBan.FlatAppearance.BorderSize = 0;
+            btn_DatBan.FlatStyle = FlatStyle.Flat;
+            btn_DatBan.Font = new Font("Tahoma", 13.8F, FontStyle.Bold);
+            btn_DatBan.ForeColor = SystemColors.ButtonHighlight;
+            btn_DatBan.Image = Properties.Resources.booktable;
+            btn_DatBan.ImageAlign = ContentAlignment.MiddleLeft;
+            btn_DatBan.Location = new Point(0, 176);
+            btn_DatBan.Name = "btn_DatBan";
+            btn_DatBan.Size = new Size(250, 62);
+            btn_DatBan.TabIndex = 1;
+            btn_DatBan.Text = "Đặt bàn";
+            btn_DatBan.TextAlign = ContentAlignment.MiddleRight;
+            btn_DatBan.UseVisualStyleBackColor = false;
+            btn_DatBan.Click += btn_DatBan_Click;
             // 
-            // thôngTinCáNhânToolStripMenuItem
+            // button5
             // 
-            thôngTinCáNhânToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { quảnLýTàiKhoảnToolStripMenuItem, đăngXuấtToolStripMenuItem });
-            thôngTinCáNhânToolStripMenuItem.Name = "thôngTinCáNhânToolStripMenuItem";
-            thôngTinCáNhânToolStripMenuItem.Size = new Size(170, 29);
-            thôngTinCáNhânToolStripMenuItem.Text = "Thông tin cá nhân";
+            button5.BackColor = Color.SandyBrown;
+            button5.FlatAppearance.BorderSize = 0;
+            button5.FlatStyle = FlatStyle.Flat;
+            button5.Font = new Font("Tahoma", 13.8F, FontStyle.Bold);
+            button5.ForeColor = SystemColors.ButtonHighlight;
+            button5.Image = Properties.Resources.hoadon;
+            button5.ImageAlign = ContentAlignment.MiddleLeft;
+            button5.Location = new Point(0, 544);
+            button5.Name = "button5";
+            button5.Size = new Size(250, 62);
+            button5.TabIndex = 5;
+            button5.Text = "Hóa đơn";
+            button5.TextAlign = ContentAlignment.MiddleRight;
+            button5.UseVisualStyleBackColor = false;
             // 
-            // quảnLýTàiKhoảnToolStripMenuItem
+            // button4
             // 
-            quảnLýTàiKhoảnToolStripMenuItem.Name = "quảnLýTàiKhoảnToolStripMenuItem";
-            quảnLýTàiKhoảnToolStripMenuItem.Size = new Size(270, 34);
-            quảnLýTàiKhoảnToolStripMenuItem.Text = "Quản lý tài khoản";
+            button4.BackColor = Color.SandyBrown;
+            button4.FlatAppearance.BorderSize = 0;
+            button4.FlatStyle = FlatStyle.Flat;
+            button4.Font = new Font("Tahoma", 13.8F, FontStyle.Bold);
+            button4.ForeColor = SystemColors.ButtonHighlight;
+            button4.Image = Properties.Resources.customer;
+            button4.ImageAlign = ContentAlignment.MiddleLeft;
+            button4.Location = new Point(0, 452);
+            button4.Name = "button4";
+            button4.Size = new Size(250, 62);
+            button4.TabIndex = 4;
+            button4.Text = "Khách Hàng";
+            button4.TextAlign = ContentAlignment.MiddleRight;
+            button4.UseVisualStyleBackColor = false;
             // 
-            // đăngXuấtToolStripMenuItem
+            // button3
             // 
-            đăngXuấtToolStripMenuItem.Name = "đăngXuấtToolStripMenuItem";
-            đăngXuấtToolStripMenuItem.Size = new Size(270, 34);
-            đăngXuấtToolStripMenuItem.Text = "Đăng xuất";
+            button3.BackColor = Color.SandyBrown;
+            button3.FlatAppearance.BorderSize = 0;
+            button3.FlatStyle = FlatStyle.Flat;
+            button3.Font = new Font("Tahoma", 13.8F, FontStyle.Bold);
+            button3.ForeColor = SystemColors.ButtonHighlight;
+            button3.Image = Properties.Resources.staff;
+            button3.ImageAlign = ContentAlignment.MiddleLeft;
+            button3.Location = new Point(0, 360);
+            button3.Name = "button3";
+            button3.Size = new Size(250, 62);
+            button3.TabIndex = 3;
+            button3.Text = "Nhân Viên";
+            button3.TextAlign = ContentAlignment.MiddleRight;
+            button3.UseVisualStyleBackColor = false;
             // 
-            // statusStrip1
+            // button2
             // 
-            statusStrip1.ImageScalingSize = new Size(20, 20);
-            statusStrip1.Items.AddRange(new ToolStripItem[] { tSS_TenDangNhap });
-            statusStrip1.Location = new Point(0, 463);
-            statusStrip1.Name = "statusStrip1";
-            statusStrip1.Size = new Size(1000, 32);
-            statusStrip1.TabIndex = 1;
-            statusStrip1.Text = "statusStrip1";
+            button2.BackColor = Color.SandyBrown;
+            button2.FlatAppearance.BorderSize = 0;
+            button2.FlatStyle = FlatStyle.Flat;
+            button2.Font = new Font("Tahoma", 13.8F, FontStyle.Bold);
+            button2.ForeColor = SystemColors.ButtonHighlight;
+            button2.Image = Properties.Resources.datmon1;
+            button2.ImageAlign = ContentAlignment.MiddleLeft;
+            button2.Location = new Point(0, 268);
+            button2.Name = "button2";
+            button2.Size = new Size(250, 62);
+            button2.TabIndex = 2;
+            button2.Text = "Đặt món";
+            button2.TextAlign = ContentAlignment.MiddleRight;
+            button2.UseVisualStyleBackColor = false;
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = Properties.Resources.logo_restaurant;
+            pictureBox1.Location = new Point(62, 12);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(127, 118);
+            pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox1.TabIndex = 0;
+            pictureBox1.TabStop = false;
+            // 
+            // pnl_TitleBar
+            // 
+            pnl_TitleBar.BackColor = SystemColors.ControlLightLight;
+            pnl_TitleBar.Controls.Add(tSS_TenDangNhap);
+            pnl_TitleBar.Dock = DockStyle.Top;
+            pnl_TitleBar.Location = new Point(250, 0);
+            pnl_TitleBar.Name = "pnl_TitleBar";
+            pnl_TitleBar.Size = new Size(882, 75);
+            pnl_TitleBar.TabIndex = 3;
             // 
             // tSS_TenDangNhap
             // 
+            tSS_TenDangNhap.AutoSize = true;
+            tSS_TenDangNhap.Location = new Point(69, 27);
             tSS_TenDangNhap.Name = "tSS_TenDangNhap";
-            tSS_TenDangNhap.Size = new Size(128, 25);
-            tSS_TenDangNhap.Text = "tên đăng nhập";
+            tSS_TenDangNhap.Size = new Size(56, 22);
+            tSS_TenDangNhap.TabIndex = 0;
+            tSS_TenDangNhap.Text = "label1";
+            // 
+            // pnl_FormCon
+            // 
+            pnl_FormCon.BackColor = SystemColors.ControlLight;
+            pnl_FormCon.Dock = DockStyle.Fill;
+            pnl_FormCon.Location = new Point(250, 75);
+            pnl_FormCon.Name = "pnl_FormCon";
+            pnl_FormCon.Size = new Size(882, 628);
+            pnl_FormCon.TabIndex = 4;
             // 
             // frmMain
             // 
-            AutoScaleDimensions = new SizeF(12F, 27F);
+            AutoScaleDimensions = new SizeF(10F, 22F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1000, 495);
-            Controls.Add(statusStrip1);
-            Controls.Add(menuStrip1);
+            ClientSize = new Size(1132, 703);
+            Controls.Add(pnl_FormCon);
+            Controls.Add(pnl_TitleBar);
+            Controls.Add(pnl_Menu);
             Font = new Font("Tahoma", 10.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            MainMenuStrip = menuStrip1;
             Margin = new Padding(4, 3, 4, 3);
             Name = "frmMain";
             Text = "Trang Chủ";
             FormClosing += frmMain_FormClosing;
             Load += frmMain_Load;
-            menuStrip1.ResumeLayout(false);
-            menuStrip1.PerformLayout();
-            statusStrip1.ResumeLayout(false);
-            statusStrip1.PerformLayout();
+            pnl_Menu.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            pnl_TitleBar.ResumeLayout(false);
+            pnl_TitleBar.PerformLayout();
             ResumeLayout(false);
-            PerformLayout();
         }
 
         #endregion
-
-        private MenuStrip menuStrip1;
-        private ToolStripMenuItem hệThốngToolStripMenuItem;
-        private ToolStripMenuItem thôngTinCáNhânToolStripMenuItem;
-        private ToolStripMenuItem quảnLýTàiKhoảnToolStripMenuItem;
-        private ToolStripMenuItem đăngXuấtToolStripMenuItem;
-        private StatusStrip statusStrip1;
-        private ToolStripStatusLabel tSS_TenDangNhap;
+        private Panel pnl_Menu;
+        private PictureBox pictureBox1;
+        private Button button5;
+        private Button button4;
+        private Button button3;
+        private Button button2;
+        private Button btn_DatBan;
+        private Panel pnl_TitleBar;
+        private Panel pnl_FormCon;
+        private Label tSS_TenDangNhap;
     }
 }

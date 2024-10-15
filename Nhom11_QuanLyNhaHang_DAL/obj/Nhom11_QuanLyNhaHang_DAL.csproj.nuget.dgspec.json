@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DAL\\Nhom11_QuanLyNhaHang_DAL.csproj": {}
+    "D:\\Subjects\\Semester_5\\CNNet\\Đề tài\\Project\\Nhom11_QuanLyNhaHang_DAL\\Nhom11_QuanLyNhaHang_DAL.csproj": {}
   },
   "projects": {
-    "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DAL\\Nhom11_QuanLyNhaHang_DAL.csproj": {
+    "D:\\Subjects\\Semester_5\\CNNet\\Đề tài\\Project\\Nhom11_QuanLyNhaHang_DAL\\Nhom11_QuanLyNhaHang_DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DAL\\Nhom11_QuanLyNhaHang_DAL.csproj",
+        "projectUniqueName": "D:\\Subjects\\Semester_5\\CNNet\\Đề tài\\Project\\Nhom11_QuanLyNhaHang_DAL\\Nhom11_QuanLyNhaHang_DAL.csproj",
         "projectName": "Nhom11_QuanLyNhaHang_DAL",
-        "projectPath": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DAL\\Nhom11_QuanLyNhaHang_DAL.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DAL\\obj\\",
+        "projectPath": "D:\\Subjects\\Semester_5\\CNNet\\Đề tài\\Project\\Nhom11_QuanLyNhaHang_DAL\\Nhom11_QuanLyNhaHang_DAL.csproj",
+        "packagesPath": "C:\\Users\\My PC\\.nuget\\packages\\",
+        "outputPath": "D:\\Subjects\\Semester_5\\CNNet\\Đề tài\\Project\\Nhom11_QuanLyNhaHang_DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\My PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DTO\\Nhom11_QuanLyNhaHang_DTO.csproj": {
-                "projectPath": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DTO\\Nhom11_QuanLyNhaHang_DTO.csproj"
+              "D:\\Subjects\\Semester_5\\CNNet\\Đề tài\\Project\\Nhom11_QuanLyNhaHang_DTO\\Nhom11_QuanLyNhaHang_DTO.csproj": {
+                "projectPath": "D:\\Subjects\\Semester_5\\CNNet\\Đề tài\\Project\\Nhom11_QuanLyNhaHang_DTO\\Nhom11_QuanLyNhaHang_DTO.csproj"
               }
             }
           }
@@ -71,21 +71,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DTO\\Nhom11_QuanLyNhaHang_DTO.csproj": {
+    "D:\\Subjects\\Semester_5\\CNNet\\Đề tài\\Project\\Nhom11_QuanLyNhaHang_DTO\\Nhom11_QuanLyNhaHang_DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DTO\\Nhom11_QuanLyNhaHang_DTO.csproj",
+        "projectUniqueName": "D:\\Subjects\\Semester_5\\CNNet\\Đề tài\\Project\\Nhom11_QuanLyNhaHang_DTO\\Nhom11_QuanLyNhaHang_DTO.csproj",
         "projectName": "Nhom11_QuanLyNhaHang_DTO",
-        "projectPath": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DTO\\Nhom11_QuanLyNhaHang_DTO.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\HK1_2024_2025\\CongNgheNet\\Nhom11_QuanLyNhaHang_DTO\\obj\\",
+        "projectPath": "D:\\Subjects\\Semester_5\\CNNet\\Đề tài\\Project\\Nhom11_QuanLyNhaHang_DTO\\Nhom11_QuanLyNhaHang_DTO.csproj",
+        "packagesPath": "C:\\Users\\My PC\\.nuget\\packages\\",
+        "outputPath": "D:\\Subjects\\Semester_5\\CNNet\\Đề tài\\Project\\Nhom11_QuanLyNhaHang_DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\My PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -132,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

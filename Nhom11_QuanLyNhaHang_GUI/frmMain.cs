@@ -37,5 +37,23 @@ namespace RESTAURANT_MANAGEMENT
         {
             tSS_TenDangNhap.Text = TenDangNhap;
         }
+
+        private void btn_DatBan_Click(object sender, EventArgs e)
+        {
+            // Xóa các điều khiển hiện có trong panel2 để tránh việc thêm đè
+            pnl_FormCon.Controls.Clear();
+
+            frmDatBan datban = new frmDatBan();
+            datban.TopLevel = false;
+
+            // Đặt Dock cho frmDatBan để nó vừa với Panel
+            datban.Dock = DockStyle.Fill;
+
+            // Thêm UserControl UcDatBan vào panel2
+            pnl_FormCon.Controls.Add(datban);
+
+            datban.Show();
+
+        }
     }
 }

@@ -16,3 +16,21 @@ D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_BLL\obj\Debug\net8.0\refint\Nh
 D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_BLL\obj\Debug\net8.0\Nhom11_QuanLyNhaHang_BLL.pdb
 D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_BLL\obj\Debug\net8.0\ref\Nhom11_QuanLyNhaHang_BLL.dll
 D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_BLL\obj\Debug\net8.0\Nhom11_QuanLyNhaHang_BLL.sourcelink.json
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_BLL\bin\Debug\net8.0\Nhom11_QuanLyNhaHang_BLL.deps.json
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_BLL\bin\Debug\net8.0\Nhom11_QuanLyNhaHang_BLL.dll
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_BLL\bin\Debug\net8.0\Nhom11_QuanLyNhaHang_BLL.pdb
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_BLL\bin\Debug\net8.0\Nhom11_QuanLyNhaHang_DAL.dll
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_BLL\bin\Debug\net8.0\Nhom11_QuanLyNhaHang_DTO.dll
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_BLL\bin\Debug\net8.0\Nhom11_QuanLyNhaHang_DAL.pdb
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_BLL\bin\Debug\net8.0\Nhom11_QuanLyNhaHang_DTO.pdb
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_BLL\obj\Debug\net8.0\Nhom11_QuanLyNhaHang_BLL.csproj.AssemblyReference.cache
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_BLL\obj\Debug\net8.0\Nhom11_QuanLyNhaHang_BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_BLL\obj\Debug\net8.0\Nhom11_QuanLyNhaHang_BLL.AssemblyInfoInputs.cache
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_BLL\obj\Debug\net8.0\Nhom11_QuanLyNhaHang_BLL.AssemblyInfo.cs
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_BLL\obj\Debug\net8.0\Nhom11_QuanLyNhaHang_BLL.csproj.CoreCompileInputs.cache
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_BLL\obj\Debug\net8.0\Nhom11_QuanLyNhaHang_BLL.sourcelink.json
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_BLL\obj\Debug\net8.0\Nhom11_Q.370612AD.Up2Date
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_BLL\obj\Debug\net8.0\Nhom11_QuanLyNhaHang_BLL.dll
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_BLL\obj\Debug\net8.0\refint\Nhom11_QuanLyNhaHang_BLL.dll
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_BLL\obj\Debug\net8.0\Nhom11_QuanLyNhaHang_BLL.pdb
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_BLL\obj\Debug\net8.0\ref\Nhom11_QuanLyNhaHang_BLL.dll

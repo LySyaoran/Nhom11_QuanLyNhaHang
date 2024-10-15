@@ -92,7 +92,10 @@
       "System.Security.Principal.Windows/4.7.0": {},
       "Nhom11_QuanLyNhaHang_DTO/1.0.0": {
         "runtime": {
-          "Nhom11_QuanLyNhaHang_DTO.dll": {}
+          "Nhom11_QuanLyNhaHang_DTO.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

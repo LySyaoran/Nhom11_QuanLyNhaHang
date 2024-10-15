@@ -66,3 +66,38 @@ D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\N
 D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.genruntimeconfig.cache
 D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\ref\Nhom11_QuanLyNhaHang_GUI.dll
 D:\HK1_2024_2025\CongNgheNet\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.sourcelink.json
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.exe
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.deps.json
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.runtimeconfig.json
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.dll
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.pdb
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_BLL.dll
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_DAL.dll
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_DTO.dll
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_BLL.pdb
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_DTO.pdb
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\bin\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_DAL.pdb
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.csproj.AssemblyReference.cache
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\RESTAURANT_MANAGEMENT.frmDangKy.resources
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\RESTAURANT_MANAGEMENT.frmDangNhap.resources
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\RESTAURANT_MANAGEMENT.frmMain.resources
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\RESTAURANT_MANAGEMENT.Properties.Resources.resources
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.csproj.GenerateResource.cache
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.AssemblyInfoInputs.cache
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.AssemblyInfo.cs
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.csproj.CoreCompileInputs.cache
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.sourcelink.json
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\Nhom11_Q.CBF2D85A.Up2Date
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.dll
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\refint\Nhom11_QuanLyNhaHang_GUI.dll
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.pdb
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\Nhom11_QuanLyNhaHang_GUI.genruntimeconfig.cache
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\ref\Nhom11_QuanLyNhaHang_GUI.dll
+D:\Subjects\Semester_5\CNNet\Đề tài\Project\Nhom11_QuanLyNhaHang_GUI\obj\Debug\net8.0-windows\RESTAURANT_MANAGEMENT.frmDatBan.resources
